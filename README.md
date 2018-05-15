@@ -6,7 +6,7 @@ It has TWO BlueJ Projects in it. Both are germain to the Chapter 1 in the doc fo
 You will follow the chapter first in `Shapes` and then in `Picture`.
 
 __BUT__ you need to open these projects, NOT the ones that came with your BlueJ download. Use
-`File -> Open` to find your `dev/FirstLab-Shapes` folder. Open `Shapes` there. (and the same is
+`Project -> Open Project...` to find your `dev/FirstLab-Shapes` folder. Open `Shapes` there. (and the same is
 for `Picture`).
 
 Be sure to 
